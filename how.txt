@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+Welcome to .. Name 
+
+Checklist 50%
+
+Sign in 
+INstall pixel - select platfom - check
+--------------------
+create my first nudge  
+
+O----O-----0    Choose Configure Display
+Fitlers ecom/retail  travel  saas software  blog news events  lead generation  finance other
+des templates
+custom
+
+
+Configure
+select data source
+Activity description
+Show sign up from  the last 1 hour
+the last 12 hours
+the last 1 day
+the last 2 days
+the last 3 days
+the last 1 week
+the last 2 weeks
+the last 1 month
+the last 3 months
+All Time
+
+Number of signup 
+Hide the time
+
+Position
+--------------------
+choose plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+install my pixel on header => website builder => head 
+
+
+
+
+
+
+
+
+
+1. first campaign 
+0 of 0 compaigns 
+Showing all campaings     and    soreted date
+
+-------------------------
+LAUNCH YOUR FIRST CAMPAIGN
+name
+
+--------------------------
+SET GOAL 
+choose a goal category 
+-- lead 
+
+name of your goal  
+
+set conversion value
+
+set goal completion url
+
+add description
+-----------------------------
+
+CREATE NOTIF
+
