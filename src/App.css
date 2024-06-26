@@ -1,0 +1,8 @@
+.navbar-fixed-top {
+  /* Default navbar styles */
+  transition: background-color 200ms linear;
+}
+
+.navbar-fixed-top.scrolled {
+  background-color: #fff !important;
+}
