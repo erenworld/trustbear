@@ -4,13 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        primaryBtn: '#817BFF',
-        secondary: '#333333',
-        beige: '#FFF0E7',
-        rose: '#F6EAF0',
-        violeta: '#EEE0F4',
-        secondarygrey: '#757474',
-        violetaClear: '#F0EFFF',
+        primary: 'rgb(45, 55, 72)',
+        secondary: 'rgb(160, 174, 192)',
       },
       fontWeight: {
         thin: '100',
@@ -24,6 +19,10 @@ export default {
         extrabold: '800',
         'extra-bold': '800',
         black: '900',
+      },
+      fontFamily: {
+        PTserif: ['"PT Serif"', 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif'],
       },
     },
   },

@@ -1,11 +1,11 @@
 const Why = () => {
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col items-center">
+    <div className=" bg-gray-50 flex flex-col items-center pb-28 ">
       <header className="w-full py-6 mt-10 ">
         <h1 className="text-center text-xl font-semibold text-primaryBtn">
           Pourquoi cela fonctionne si bien ?{' '}
         </h1>
-        <p className="text-center text-3xl text-secondary  font-bold font-inter mt-2">
+        <p className="text-center text-3xl text-secondary  font-bold font-inter ">
           Le secret des meilleurs entreprises
         </p>
       </header>

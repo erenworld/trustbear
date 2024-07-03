@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Mission = () => {
   return (
     <div className="bg-red-500 h-96">

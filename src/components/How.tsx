@@ -1,4 +1,3 @@
-import React from 'react';
 import { useState } from 'react';
 import heroImg from './heroImg.png';
 
@@ -6,7 +5,7 @@ const How = () => {
   const [activeTab, setActiveTab] = useState('productListing');
 
   return (
-    <div className="min-h-screen bg-white flex flex-col items-center">
+    <div className="pb-52 bg-white flex flex-col items-center mt-14">
       <header className="w-full py-6 ">
         <h1 className="text-center text-xl font-semibold text-primaryBtn">
           Comment ça marche ?{' '}
@@ -57,7 +56,7 @@ const How = () => {
                 <img
                   src={heroImg}
                   alt="Product Listing"
-                  className="w-150 h-150"
+                  className="w-50 h-50"
                 />
               </div>
             </div>
